@@ -1,7 +1,5 @@
 I may place something interesting here in the future.
 
-Profile picture is the character Aoi Aioi from the anime [Her Blue Sky](https://en.wikipedia.org/wiki/Her_Blue_Sky). That is where I got the name **Aoi** from.
-
 ## In progress
 
 ### Discord Themes
