@@ -1,10 +1,11 @@
-I may place something interesting here in the future.
-Meanwhile, check out my photos on Unsplash (they are bad): https://unsplash.com/seele1306
+I may place something interesting here in the future. 
+
+Meanwhile, check out my photos on [Unsplash](https://unsplash.com/seele1306) (they are bad).
 
 ## In progress
 
 ### Discord Themes
-[Modular](https://github.com/SEELE1306/Modular) v2.1.0 (huge update)
+[Modular](https://github.com/SEELE1306/Modular) v2.1.0 (huge update, may be released in October 2024)
 
 ### Other projects
 [Personal website](https://seele1306.com) (nothing there yet)
