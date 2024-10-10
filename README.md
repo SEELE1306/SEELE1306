@@ -1,14 +1,14 @@
 I may place something interesting here in the future. 
 
-Meanwhile, check out my photos on [Unsplash](https://unsplash.com/seele1306) (they are bad).
+Meanwhile, check out my photos on [Unsplash](https://unsplash.com/seele1306).
 
 ## In progress
 
 ### Discord Themes
-[Modular](https://github.com/SEELE1306/Modular) v2.1.0 (huge update, may be released in October 2024)
+[Modular](https://github.com/SEELE1306/Modular) v2.1.x with customizable color schemes
 
 ### Other projects
-[Personal website](https://seele1306.com) (nothing there yet)
+[Personal website](https://seele1306.com) (in progress, using an Astro template)
 
 ## Languages / Frameworks to learn
 
