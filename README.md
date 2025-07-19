@@ -4,11 +4,7 @@ Meanwhile, check out my photos on [Unsplash](https://unsplash.com/seele1306).
 
 ## In progress
 
-### Discord Themes
-[Modular](https://github.com/SEELE1306/Modular) v2.1.x with customizable color schemes
-
-### Other projects
-[Personal website](https://seele1306.com) (in progress, using an Astro template)
+[Personal website](https://seele1306.com) (currently being rewritten in Astro and UnoCSS)
 
 ## Languages / Frameworks to learn
 
