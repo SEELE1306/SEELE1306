@@ -1,6 +1,4 @@
-I may place something interesting here in the future. 
-
-Meanwhile, check out my photos on [Unsplash](https://unsplash.com/seele1306).
+I am not active on GitHub. You can find all of my repositories at [Codeberg](https://codeberg.org/SEELE1306).
 
 <!---
 SEELE1306/SEELE1306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
